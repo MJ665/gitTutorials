@@ -83,6 +83,16 @@ git pull origin
 
 to see what were changes made by other users we will do git pull request
 
-123
-123
-123
+
+
+first do a stage file then do if any changes are made and to compare those changes
+git diff 
+to compare changes between stage file and original file
+
+
+
+git reset 1234.txt
+to restore change  back to staged file 
+
+git checkout 1234.txt
+to check a file
