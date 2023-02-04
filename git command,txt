@@ -71,3 +71,11 @@ git remote add origin git@github.com:MJ665/gitTutorials.git
 to add ssh key in our git folder
 
 
+
+
+git push -u origin master
+
+to push code in online repository
+
+
+
