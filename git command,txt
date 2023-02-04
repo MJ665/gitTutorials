@@ -66,3 +66,8 @@ to see what email is used globally means in all repositories
 
 
 
+git remote add origin git@github.com:MJ665/gitTutorials.git
+
+to add ssh key in our git folder
+
+
