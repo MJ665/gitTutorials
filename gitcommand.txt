@@ -168,3 +168,11 @@ this will creat new branch with name master2
 git checkout master2
 
 to switch to a new branch in computer
+
+
+
+
+git push -u origin master2
+
+to push on github internet
+to creat if not existing or push if exting 
