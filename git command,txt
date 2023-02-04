@@ -1,0 +1,68 @@
+git status
+
+to check status of a folder
+
+
+
+
+git add .
+
+to stage a file
+
+
+
+
+git commit -m "Version 1"
+
+to commit a folder
+
+
+
+git log
+
+to check which commits were done by which editors
+
+
+
+
+git config --global user.name "Meet Jain"
+
+to change name for whole computer all reposiory 
+
+
+
+
+git config user.name "Meet Jain"
+
+to change name for a particular repository
+
+
+
+
+git config --global user.name 
+
+to see what name is used globally means in all repositories
+
+
+
+
+git config --global user.email "Meet Jain"
+
+to change email for whole computer all reposiory 
+
+
+
+
+git config user.email "Meet Jain"
+
+to change email for a particular repository
+
+
+
+
+git config --global user.email 
+
+to see what email is used globally means in all repositories
+
+
+
