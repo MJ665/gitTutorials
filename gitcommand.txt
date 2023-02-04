@@ -106,3 +106,78 @@ if i have deleted one file then it would be deleted from code also
 
 git add -u------->small u stage new and modified without new------>means
  in a floder in 2 old file i have made changes and i have created 1 new file then it will not stage 1 new file and remaining all file will come to stage 
+
+
+
+
+
+
+touch .gitignore
+
+makes a .gitignore file this is a hidden file
+
+
+
+
+ls - la
+
+to check which files exist
+
+
+notepad .gitignore
+if you are in windows do
+open .gitignore
+but if you are in mac os do 
+
+
+
+
+basic terminal commands
+
+Open up terminal, cmd + space "terminal".
+pwd Figure out which directory you are currently in by "Printing the Working Directory".
+ls List the directories and files inside the current directory.
+ls -a include hidden files in the list of directories and files. This is helpful when trying to find hidden files like .git or .gitignore
+cd [folder] Go into the folder. e.g. cd Desktop/Developer
+cd This by itself will navigate all the way out to your Home Directory
+cd .. Back out to the parent directory of the current directory.
+open [file] Same as "double-clicking" a file or folder in finder.
+open . Opens the current folder or file in finder or it's default application.
+clear When you need a fresh Terminal window
+
+
+
+
+
+if i want to ignore a cretain file which i wass tracking in past then i would creat a git ignore file and pul all the name of files in it
+
+
+
+git branch
+
+ to see which branches are there in computers git repository
+
+
+git branch master2
+
+this will creat new branch with name master2
+
+
+
+
+git checkout master2
+
+to switch to a new branch in computer
+
+
+
+
+git push -u origin master2
+
+to push on github internet
+to creat if not existing or push if exting 
+
+
+
+git merge master2
+to merge master2 branch to master branch
