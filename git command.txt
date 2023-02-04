@@ -79,4 +79,8 @@ to push code in online repository
 
 
 
- 
+git pull origin 
+
+to see what were changes made by other users we will do git pull request
+
+
