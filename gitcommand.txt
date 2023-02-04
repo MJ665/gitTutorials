@@ -94,5 +94,15 @@ to compare changes between stage file and original file
 git reset 1234.txt
 to restore change  back to staged file 
 
-git checkout 1234.txt
-to check a file
+git checkout
+to reset a file
+
+
+
+git add -A----->stage all
+git add .-------->stage new and modified without delete--->means 
+if i have created 1 old file and created one new file and  deleted one file then it will not get stage and other 2 files weather they are new or old will get stage
+if i have deleted one file then it would be deleted from code also
+
+git add -u------->small u stage new and modified without new------>means
+ in a floder in 2 old file i have made changes and i have created 1 new file then it will not stage 1 new file and remaining all file will come to stage 
