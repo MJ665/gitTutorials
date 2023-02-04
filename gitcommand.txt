@@ -1,3 +1,9 @@
+git tutorials by code with harry
+
+https://www.youtube.com/playlist?list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln
+
+
+
 git status
 
 to check status of a folder
@@ -181,3 +187,16 @@ to creat if not existing or push if exting
 
 git merge master2
 to merge master2 branch to master branch
+
+
+
+
+git branch -d master2
+to delete branch in computer
+
+
+
+
+git push origin --delete master2
+
+to delete branch on github
